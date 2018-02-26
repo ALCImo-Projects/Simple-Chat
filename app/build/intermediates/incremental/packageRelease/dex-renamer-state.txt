@@ -1,0 +1,4 @@
+#Fri Feb 02 00:04:46 WAT 2018
+base.0=C\:\\Users\\Franklin Ezeji\\Desktop\\and-nd-firebase\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Franklin Ezeji\\Desktop\\and-nd-firebase\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex
