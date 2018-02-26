@@ -6,11 +6,11 @@ Simple Chat as the name points out is a simple chat app that enables the communi
 
 Simple Chat allows users to send, receive text and photos in realtime across platforms.
 
-### Setup
+## Setup
 
 Setup requires creating a Firebase project. See https://firebase.google.com/ for more information.
 
-#### About Developer
+## About Developer
 
 I am Franklin Ezeji, the owner of this project and my focus is on developing desktop and mobile apps(Android, Windows and IOS) using C#, Java, Xml, Xaml, MySQL and NoSQL for databases.
 
